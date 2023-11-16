@@ -1,6 +1,6 @@
 # Aditi's Portfolio Site
 ### My personal Tech Portfolio site ✨
-<br/><br/>
+<br/>
 ## Tech Stack
 1. HTML, CSS, JavaScript - for Static web app
 2. ReactJS - For components
